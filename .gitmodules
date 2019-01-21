@@ -1,0 +1,18 @@
+[submodule "services/search"]
+	path = services/search
+	url = https://github.com/synergistic-solutions/search.git
+[submodule "services/server"]
+	path = services/server
+	url = https://github.com/synergistic-solutions/server.git
+[submodule "services/indexer"]
+	path = services/indexer
+	url = https://github.com/synergistic-solutions/indexer.git
+[submodule "services/crawler"]
+	path = services/crawler
+	url = https://github.com/synergistic-solutions/crawler.git
+[submodule "services/broker"]
+	path = services/broker
+	url = https://github.com/synergistic-solutions/broker.git
+[submodule "services/poller"]
+	path = services/poller
+	url = https://github.com/synergistic-solutions/poller.git
